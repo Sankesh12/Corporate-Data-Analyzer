@@ -1,5 +1,7 @@
 # Corporate-Data-Analyzer
-### Corporate Data Analyzer is a simple Python-based desktop application that helps users analyze data from Excel or CSV files. It allows users to create summarized reports using GroupBy and aggregation functions, preview results in a table, visualize data with different chart types and export both reports and charts.
+- Corporate Data Analyzer is a simple Python-based desktop application that helps users analyze data from Excel or CSV files. It allows users to create summarized reports using GroupBy and aggregation functions, preview results in a table, visualize data with different chart types and export both reports and charts.
+
+---
 
 # ✅ Project Features
 
